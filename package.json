@@ -4,6 +4,16 @@
   "description": "Dark theme with bright colors I like.",
   "publisher": "WillLuft",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wdluft/wl-dark-ink-color-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "ink",
+    "dark ink"
+  ],
   "engines": {
     "vscode": "^1.46.0"
   },
