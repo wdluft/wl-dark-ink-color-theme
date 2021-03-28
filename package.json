@@ -1,21 +1,22 @@
 {
-    "name": "wl-dark-ink",
-    "displayName": "wl dark ink",
-    "description": "Dark theme with colors I like",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "wl dark ink",
-                "uiTheme": "vs-dark",
-                "path": "./themes/wl dark ink-color-theme.json"
-            }
-        ]
-    }
+  "name": "wl-dark-ink",
+  "displayName": "wl dark ink",
+  "description": "Dark theme with bright colors I like.",
+  "publisher": "WillLuft",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "wl dark ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wl dark ink-color-theme.json"
+      }
+    ]
+  }
 }
