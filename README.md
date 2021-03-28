@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "wl-dark-ink"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# wl-dark-ink color theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a personal color theme I made for Visual Studio Code.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## How it was made
 
-**Enjoy!**
+[Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ) made a wonderful guide on [How to make your own VS Code theme](https://youtu.be/pGzssFNtWXw) that I followed to build my own theme. I'm a big fan of dark themes with bright colors and that's what I did for the theme I made, using colors I have on my personal website.
+
+## Author
+
+- Website - [Will Luft](https://www.willluft.com)
+- Twitter - [@IAmWillDL](https://www.twitter.com/IAmWillDL)
